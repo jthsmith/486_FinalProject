@@ -10,10 +10,10 @@ Pulls together several public datasets such as Census ACS, HUD homeless counts, 
 `FederalCoCData.csv` — federal HUD grant awards by CoC and year<br>
 
 ## Raw Data (annual CSVs, 2014–2024)
-`poverty20XX.csv`     # Census ACS poverty status by county<br>
-`rent20XX.csv`        # Census ACS median gross rent by county<br>
-`vacancy20XX.csv`     # Census ACS housing vacancy by county<br>
-`2007-2024-PIT-Counts-by-CoC.xlsx - 20XX.csv`   # HUD point-in-time homeless counts by CoC<br>
+`poverty20XX.csv`     — Census ACS poverty status by county<br>
+`rent20XX.csv`        — Census ACS median gross rent by county<br>
+`vacancy20XX.csv`     — Census ACS housing vacancy by county<br>
+`2007-2024-PIT-Counts-by-CoC.xlsx - 20XX.csv`   — HUD point-in-time homeless counts by CoC<br>
 
 ## Intermediate & Output CSVs
 `final_df.csv`                # merged wide-format data before filtering<br>
