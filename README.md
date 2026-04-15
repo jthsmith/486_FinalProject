@@ -6,7 +6,7 @@ Pulls together several public datasets such as Census ACS, HUD homeless counts, 
 ## Files
 `dataprep.ipynb` — main notebook, run this<br>
 `PolicyMaster.csv` — housing policy scores by CoC (2022–2024)<br>
-`coc-county-mapping` - Sheet4.csv — maps counties to CoC codes<br>
+`coc-county-mapping - Sheet4.csv` — maps counties to CoC codes<br>
 `FederalCoCData.csv` — federal HUD grant awards by CoC and year<br>
 
 ## Raw Data (annual CSVs, 2014–2024)
