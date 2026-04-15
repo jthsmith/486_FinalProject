@@ -16,13 +16,13 @@ Pulls together several public datasets such as Census ACS, HUD homeless counts, 
 `2007-2024-PIT-Counts-by-CoC.xlsx - 20XX.csv`   — HUD point-in-time homeless counts by CoC<br>
 
 ## Intermediate & Output CSVs
-`final_df.csv`                # merged wide-format data before filtering<br>
-`final_df_filtered.csv`       # filtered to target CoCs<br>
-`final_df_long.csv`           # reshaped to long format (one row per CoC per year)<br>
-`final_grouped.csv`           # aggregated at CoC level<br>
-`final_with_funding.csv`      # after adding federal funding columns<br>
-`normalized_df_filtered.csv`  # normalized features, filtered to target CoCs<br>
-`final_merged_df.csv`         # final output with policy scores merged in<br>
+`final_df.csv`                — merged wide-format data before filtering<br>
+`final_df_filtered.csv`       — filtered to target CoCs<br>
+`final_df_long.csv`           — reshaped to long format (one row per CoC per year)<br>
+`final_grouped.csv`           — aggregated at CoC level<br>
+`final_with_funding.csv`      — after adding federal funding columns<br>
+`normalized_df_filtered.csv`  — normalized features, filtered to target CoCs<br>
+`final_merged_df.csv`         — final output with policy scores merged in<br>
 
 ## Data Sources
 **HUD Point-in-Time Counts** — yearly homeless counts by CoC<br>
