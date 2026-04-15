@@ -4,7 +4,6 @@
 Pulls together several public datasets such as Census ACS, HUD homeless counts, federal grant data, and also includes a custom dataset centered on implementation of policy solutions to homelessness by federal “Continuum of Care” districts. Merges them into one clean CSV that's ready for modeling. The end goal is training a classifier to predict whether a city will see a decrease in homelessness year-over-year based on factors including rent, poverty rates, and especially housing policies.
 
 ## Files
-`Main`<br>
 `dataprep.ipynb` — main notebook, run this<br>
 `PolicyMaster.csv` — housing policy scores by CoC (2022–2024)<br>
 `coc-county-mapping` - Sheet4.csv — maps counties to CoC codes<br>
